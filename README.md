@@ -24,6 +24,7 @@
 |2420. 사파리월드|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2420.%E2%80%85%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%9B%94%EB%93%9C/%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%9B%94%EB%93%9C.undefined)|
 |25083. 새싹|[링크](./%EB%B0%B1%EC%A4%80/Bronze/25083.%E2%80%85%EC%83%88%EC%8B%B9/%EC%83%88%EC%8B%B9.undefined)|
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)|
+|2739. 구구단|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2739.%E2%80%85%EA%B5%AC%EA%B5%AC%EB%8B%A8/README.md)|
 |2741. N 찍기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2741.%E2%80%85N%E2%80%85%EC%B0%8D%EA%B8%B0/README.md)|
 |2753. 윤년|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2753.%E2%80%85%EC%9C%A4%EB%85%84/README.md)|
 |7287. 등록|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D/%EB%93%B1%EB%A1%9D.undefined)|
