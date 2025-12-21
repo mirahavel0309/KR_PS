@@ -59,6 +59,7 @@
 |5338. 마이크로소프트 로고|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5338.%E2%80%85%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%E2%80%85%EB%A1%9C%EA%B3%A0/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%E2%80%85%EB%A1%9C%EA%B3%A0.undefined)|
 |5597. 과제 안 내신 분．．？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5597.%E2%80%85%EA%B3%BC%EC%A0%9C%E2%80%85%EC%95%88%E2%80%85%EB%82%B4%EC%8B%A0%E2%80%85%EB%B6%84%EF%BC%8E%EF%BC%8E%EF%BC%9F/README.md)|
 |7287. 등록|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D/%EB%93%B1%EB%A1%9D.undefined)|
+|8393. 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8393.%E2%80%85%ED%95%A9/%ED%95%A9.undefined)|
 |9086. 문자열|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9086.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4.undefined)|
 |9498. 시험 성적|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9498.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%84%B1%EC%A0%81/%EC%8B%9C%ED%97%98%E2%80%85%EC%84%B1%EC%A0%81.undefined)|
 ### 🚀 Silver
