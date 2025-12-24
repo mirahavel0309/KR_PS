@@ -73,6 +73,7 @@
 |2884. 알람 시계|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2884.%E2%80%85%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84/%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84.undefined)|
 |2935. 소음|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2935.%E2%80%85%EC%86%8C%EC%9D%8C/%EC%86%8C%EC%9D%8C.undefined)|
 |31429. SUAPC 2023 Summer|[링크](./%EB%B0%B1%EC%A4%80/Bronze/31429.%E2%80%85SUAPC%E2%80%852023%E2%80%85Summer/README.md)|
+|31450. Everyone is a winner|[링크](./%EB%B0%B1%EC%A4%80/Bronze/31450.%E2%80%85Everyone%E2%80%85is%E2%80%85a%E2%80%85winner/README.md)|
 |32951. AI 선도대학|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32951.%E2%80%85AI%E2%80%85%EC%84%A0%EB%8F%84%EB%8C%80%ED%95%99/AI%E2%80%85%EC%84%A0%EB%8F%84%EB%8C%80%ED%95%99.undefined)|
 |3733. Shares|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3733.%E2%80%85Shares/README.md)|
 |4101. 크냐？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4101.%E2%80%85%ED%81%AC%EB%83%90%EF%BC%9F/README.md)|
