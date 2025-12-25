@@ -1,0 +1,33 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    string a, b, op;
+    cin >> a >> op >> b;
+
+    int za = (int)a.size() - 1;
+    int zb = (int)b.size() - 1;
+
+    if (op == "*") {
+        cout << '1';
+        for (int i = 0; i < za + zb; i++) cout << '0';
+        return 0;
+    }
+
+    if (za == zb) {
+        cout << '2';
+        for (int i = 0; i < za; i++) cout << '0';
+        return 0;
+    }
+
+    int big = max(za, zb);
+    int small = min(za, zb);
+
+    cout << '1';
+    for (int i = 0; i < big - small - 1; i++) cout << '0';
+    cout << '1';
+    for (int i = 0; i < small; i++) cout << '0';
+
+    return 0;
+}
