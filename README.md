@@ -64,6 +64,7 @@
 |1978. 소수 찾기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1978.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/README.md)|
 |22193. Multiply|[링크](./%EB%B0%B1%EC%A4%80/Bronze/22193.%E2%80%85Multiply/README.md)|
 |2309. 일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2309.%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md)|
+|23234. The World Responds|[링크](./%EB%B0%B1%EC%A4%80/Bronze/23234.%E2%80%85The%E2%80%85World%E2%80%85Responds/README.md)|
 |2393. Rook|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2393.%E2%80%85Rook/README.md)|
 |2420. 사파리월드|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2420.%E2%80%85%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%9B%94%EB%93%9C/README.md)|
 |2438. 별 찍기 － 1|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2438.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%851/README.md)|
