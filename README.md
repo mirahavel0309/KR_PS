@@ -172,6 +172,7 @@
 |2941. 크로아티아 알파벳|[링크](./%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3/README.md)|
 |4949. 균형잡힌 세상|[링크](./%EB%B0%B1%EC%A4%80/Silver/4949.%E2%80%85%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%E2%80%85%EC%84%B8%EC%83%81/README.md)|
 |7568. 덩치|[링크](./%EB%B0%B1%EC%A4%80/Silver/7568.%E2%80%85%EB%8D%A9%EC%B9%98/README.md)|
+|9012. 괄호|[링크](./%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8/README.md)|
 ### 🚀 Unrated
 | 문제번호 | 링크 |
 | ----- | ----- |
